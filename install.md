@@ -1,0 +1,1 @@
+sudo apt install -y openmpi-bin openmpi-common libopenmpi-dev
